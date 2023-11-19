@@ -16,8 +16,8 @@ export default function JobDetail({params}:{params:{jobname:string}}){
                     <div className="w-[600px] flex-cols justify-between leading-normal text-lg items-center border my-1 bg-white rounded-xl space-y-5 py-5 px-10">
                         <div className="space-y-5 py-5">
                             <h1 className="text-black text-3xl font-bold">Job Description</h1>
-                            <p className="text-black">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing.</p>
-                            <p>Variations of passages of lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing.</p>
+                            <p className="text-black">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there anything embarrassing.</p>
+                            <p>Variations of passages of lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there t anything embarrassing.</p>
                         </div>
                         <div className="space-y-5 py-5">
                             <h1 className="text-black text-3xl font-bold">Responsibiltiy</h1>
@@ -39,7 +39,7 @@ export default function JobDetail({params}:{params:{jobname:string}}){
                         </div>
                         <div className="space-y-5 py-5">
                             <h1 className="text-black text-3xl font-bold">Benefits</h1>
-                            <p className="text-black">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing.</p>
+                            <p className="text-black">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isnt anything embarrassing.</p>
                         </div>
                     </div>
                     <div>
